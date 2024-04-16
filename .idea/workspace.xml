@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32321085-0cae-4f23-84af-3095c080faf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/Apache_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/io/github/kincsescsaba/dottytestclasspathproblem/ExampleTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/io/github/kincsescsaba/dottytestclasspathproblem/Repl.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/io/github/kincsescsaba/dottytestclasspathproblem/ExampleTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/io/github/kincsescsaba/dottytestclasspathproblem/ExampleTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/io/github/kincsescsaba/dottytestclasspathproblem/Repl.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/io/github/kincsescsaba/dottytestclasspathproblem/Repl.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ScalaTest.ExampleTest.Feature: Example feature Scenario: Classpath check.executor": "Run",
-    "ScalaTest.ExampleTest.Feature: Example feature Scenario: Scenario1.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "copyright.profiles"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ScalaTest.ExampleTest.Feature: Example feature Scenario: Classpath check.executor&quot;: &quot;Run&quot;,
+    &quot;ScalaTest.ExampleTest.Feature: Example feature Scenario: Scenario1.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright.profiles&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="ScalaTest.ExampleTest.Feature: Example feature Scenario: Scenario1">
     <configuration name="ExampleTest.Feature: Example feature Scenario: Classpath check" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="dotty-test-classpath-problem" />

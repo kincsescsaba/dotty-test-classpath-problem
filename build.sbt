@@ -11,5 +11,6 @@ lazy val root = (project in file("."))
       "org.scala-lang" %% "scala3-compiler" % scalaVersion.value,
       "org.scalatest" %% "scalatest" % "3.2.18" % Test
     ),
+    Test / fork := true,
     resolvers += Resolver.mavenLocal
   )

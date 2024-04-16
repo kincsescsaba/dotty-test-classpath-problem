@@ -12,7 +12,7 @@ class ExampleTest extends AnyFeatureSpec, GivenWhenThen {
       assert(classPathEntries.exists(_.contains("scala3-compiler")))
     }
     Scenario("Scenario1") {
-      Repl("""println("Hello World!")""")
+      assert(Repl("""println("Hello World!")""") == Passes)
     }
   }
 }
